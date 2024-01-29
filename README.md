@@ -1,14 +1,12 @@
-# SimplyWeather App
+# Weather App
 
 This Weather App provides weather data for any searched city and also for the user's current location.
 
-A solo project executed in 2 days.No External Libraries has been used.
-
-![Logo](https://s3.amazonaws.com/www-inside-design/uploads/2018/05/weather-app-4_feature.jpg)
+![Logo](https://camo.githubusercontent.com/2221bb612c485f46f2a4869c57c7f911c8e429f087a1a4fc50c0be90d04fc17b/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f7777772d696e736964652d64657369676e2f75706c6f6164732f323031382f30352f776561746865722d6170702d345f666561747572652e6a7067)
 
 ## Demo 🎥
 
-- Deployed Link:- [Enjoy the Experience](https://simplyweatherdata.netlify.app/)
+- Deployed Link:- [Enjoy the Experience](https://kumarguddu609.github.io/Weather-App/)
 
 ## Tech Stack 💻
 
